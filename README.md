@@ -38,9 +38,8 @@ sudo apt install nodejs
 ```
 
 ### motrix depends 설치
-
 ```
-git clone git@github.com:agalwood/Motrix.git
+git@github.com:hamonikr/Motrix.git
 
 cd motrix
 
